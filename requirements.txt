@@ -14,4 +14,4 @@ Pillow
 # For nicer UI components (sliders, tables)
 streamlit-aggrid
 
-# pip install -r requirements.txt
+

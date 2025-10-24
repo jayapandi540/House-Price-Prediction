@@ -1,6 +1,9 @@
 # Streamlit Web App
 streamlit
 
+# For nicer UI components (sliders, tables)
+streamlit-aggrid
+
 # MySQL Database Connection
 mysql-connector-python
 
@@ -11,7 +14,6 @@ joblib
 # Image Handling
 Pillow
 
-# For nicer UI components (sliders, tables)
-streamlit-aggrid
+
 
 

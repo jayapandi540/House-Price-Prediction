@@ -5,12 +5,7 @@
 2. Import `sql/create_listings.sql` into phpMyAdmin
 3. Place your trained model in `models/model.pkl`
 
-4. Run:
-   ```bash
-   pip install -r requirements.txt
-   streamlit run app.py
-
-5. SQL query:
+4. SQL query:
 
    ```bash
    CREATE TABLE IF NOT EXISTS listings (
@@ -33,3 +28,9 @@
     image_path VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
+
+5. Run:
+
+   ```bash
+      pip install -r requirements.txt
+      streamlit run app.py

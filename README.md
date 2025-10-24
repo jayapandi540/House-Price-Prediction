@@ -2,7 +2,7 @@
 
 ## 🚀 Setup
 1. Create a MySQL DB called `real_estate`
-2. Import `sql/create_listings.sql` into phpMyAdmin
+2. Import `real_estate/listings.sql` into phpMyAdmin
 3. Place your trained model in `models/model.pkl`
 
 4. SQL query:
